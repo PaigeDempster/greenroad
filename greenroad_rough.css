@@ -1,0 +1,40 @@
+.title {
+		font-family: avenir;
+		font-size: 18px;
+		color: #ff00bb;
+		}
+.line { width: 600px;
+		margin-left: 450px;}
+
+.yeet {
+		font-family: trebuchet ms;
+		font-size: 10px;
+		color: gray;
+		width: 600px;
+		margin-left: 450px;
+		}
+
+.yeet2 {
+		font-family: trebuchet ms;
+		font-size: 10px;
+		color: gray;
+		width: 600px;
+		margin-left: 675px;
+		
+		}
+
+.yeet3 {
+		font-family: trebuchet ms;
+		font-size: 8px;
+		color: black;
+		width: 600px;
+		margin-left: 550px;
+		}
+		
+.yeet4 {
+		font-family: trebuchet ms;
+		font-size: 8px;
+		color: black;
+		width: 600px;
+		margin-left: 675px;
+		}
